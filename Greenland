@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>Redirect Page</title>
+</head>
+<body>
+<meta http-equiv="refresh" content="5;url=https://api.whatsapp.com/send?phone=6285956411275&text=Halo%20Ahya%20Saya%20Tertarik%20Dengan%20Iklan%20Ini,%20https://vt.tiktok.com/ZS8V1sHMF/%20Saya%20Bisa%20Minta%20Pricelistnya">
+<p>Silahkan tunggu sebentar, anda akan kami alihkan secara otomatis ke Chat WhatsApp
+<br>Jika anda tidak dialihkan secara otomatis maka silahkan anda <a href="https://api.whatsapp.com/send?phone=6285956411275&text=Halo%20Ahya%20Saya%20Tertarik%20Dengan%20Iklan%20Ini,%20https://vt.tiktok.com/ZS8V1sHMF/%20Saya%20Bisa%20Minta%20Pricelistnya">klik disini untuk ke Chat WhatsApp</a>
+</p>
+</body>
+</html>
